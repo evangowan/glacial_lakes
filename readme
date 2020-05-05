@@ -1,0 +1,14 @@
+Files related to pro-glacial lakes. Organized by Evan James Gowan.
+
+Shapefiles/Lake_Agassiz : This is the full extent that Lake Agassiz covered over its 5000 year history. This is traced from Teller et al 2005.
+
+elevation_data/Gowan_et_al_2016_strandline_data.ods : This contains a compilation of previously published and newly determined elevation data on strandlines for Lake Agassiz and Lake McConnell, published in Gowan et al., 2016
+
+
+-------------
+References
+-------------
+
+Gowan, E.J., Tregoning, P., Purcell, A., Montillet, J.P. and McClusky, S., 2016. A model of the western Laurentide Ice Sheet, using observations of glacial isostatic adjustment. Quaternary Science Reviews, 139, pp.1-16.
+
+Teller, J.T., Boyd, M., Yang, Z., Kor, P.S. and Fard, A.M., 2005. Alternative routing of Lake Agassiz overflow during the Younger Dryas: new dates, paleotopography, and a re-evaluation. Quaternary Science Reviews, 24(16-17), pp.1890-1905.
